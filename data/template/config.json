@@ -17,8 +17,8 @@
   },
   "title": "Hoon-Depot",
   "gitalk": {
-    "repo": "Blog",
-    "admin": ["hoon"],
+    "repo": "blog-comments",
+    "admin": ["Hoon-Yim"],
     "owner": "Hoon-Yim",
     "clientID": "4b5df381f9fdf11d0cee",
     "clientSecret": "5dd92dc3848520e95450f47742b69dcf233e87ef",
