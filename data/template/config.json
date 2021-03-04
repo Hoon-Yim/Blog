@@ -1,0 +1,67 @@
+{
+  "url": "https://hoony.netlify.app",
+  "meta": {
+    "favicon": "https://i.imgur.com/y75PgDe.png",
+    "keyword": "hoon, blog, JavaScript",
+    "description": "Hoon's Blog for the purpose of studying",
+    "theme_color": "#384f7c",
+    "google_site_verification": "riZBcestky7i9xY__A-5J-2EE65T75X1u-zgbss37Io"
+  },
+  "name": "hoon",
+  "about": "/2018/05/01/about-calpa-liu/",
+  "email": "yimsh4507@gmail.com",
+  "stats": {
+    "image": "https://i.imgur.com/VjBWiSt.png",
+    "title": "過去三十日數據",
+    "description": "過去三十日數據"
+  },
+  "title": "Hoon-Depot",
+  "gitalk": {
+    "repo": "Blog",
+    "admin": ["hoon"],
+    "owner": "Hoon-Yim",
+    "clientID": "8bf9f3ffb242e1dd3734",
+    "clientSecret": "d455d6194d479255ab401c15b45564188afc89f9",
+    "pagerDirection": "first",
+    "distractionFreeMode": true
+  },
+  "License": "by",
+  "friends": [
+    {
+      "href": "https://hoony.netfliy.app",
+      "title": "Hoon's Blog"
+    }
+  ],
+  "iconUrl": "https://i.imgur.com/Ro9oNDP.jpg",
+  "wordings": ["Student of CS", "Graphics", "Network"],
+  "gaTrackId": "UA-84737574-3",
+  "navbarList": [
+    {
+      "href": "/guestbook/",
+      "title": "GuestBook"
+    },
+    {
+      "href": "/tags/",
+      "title": "Tags"
+    },
+    {
+      "href": "/2018/05/01/about-calpa-liu/",
+      "title": "About"
+    }
+  ],
+  "redirectors": [
+    {
+      "toPath": "/2018/05/01/about-calpa-liu/",
+      "fromPath": "/about/"
+    }
+  ],
+  "gaOptimizeId": "GTM-WHP7SC5",
+  "carouselItems": [
+    {
+      "src": "https://i.imgur.com/gw91CuI.jpg",
+      "target": "/stats/"
+    }
+  ],
+  "githubUsername": "Hoon-Yim",
+  "maxPostsInPage": 10
+}
