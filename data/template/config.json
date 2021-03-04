@@ -20,15 +20,15 @@
     "repo": "Blog",
     "admin": ["hoon"],
     "owner": "Hoon-Yim",
-    "clientID": "8bf9f3ffb242e1dd3734",
-    "clientSecret": "d455d6194d479255ab401c15b45564188afc89f9",
+    "clientID": "4b5df381f9fdf11d0cee",
+    "clientSecret": "5dd92dc3848520e95450f47742b69dcf233e87ef",
     "pagerDirection": "first",
     "distractionFreeMode": true
   },
   "License": "by",
   "friends": [
     {
-      "href": "https://hoony.netfliy.app",
+      "href": "https://hoony.netlify.app",
       "title": "Hoon's Blog"
     }
   ],
