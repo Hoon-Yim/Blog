@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-id: c192eaba9fefc632acf87ed636593475
+id: https://hoony.netlify.app/about/
 title: "About"
-slug: /2021/03/04/about-calpa-liu/
+slug: /about/
 date: 2021-03-04T23:56:03.125Z
 description: About me
 headerImage: https://i.imgur.com/mich3dS.jpg

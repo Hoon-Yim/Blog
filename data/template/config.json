@@ -8,7 +8,7 @@
     "google_site_verification": "riZBcestky7i9xY__A-5J-2EE65T75X1u-zgbss37Io"
   },
   "name": "hoon",
-  "about": "/2018/05/01/about-calpa-liu/",
+  "about": "/about/",
   "email": "yimsh4507@gmail.com",
   "stats": {
     "image": "https://i.imgur.com/VjBWiSt.png",
@@ -45,13 +45,13 @@
       "title": "Tags"
     },
     {
-      "href": "/2021/03/04/about-calpa-liu/",
+      "href": "/about/",
       "title": "About"
     }
   ],
   "redirectors": [
     {
-      "toPath": "/2021/03/04/about-calpa-liu/",
+      "toPath": "/about/",
       "fromPath": "/about/"
     }
   ],
