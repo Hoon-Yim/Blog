@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-id: https://hoony.netlify.app/CA01/
+id: https://hoony.netlify.app/gate/
 title: "[CA] Gates"
-slug: /CA01
+slug: /gate
 date: 2021-03-05T23:56:03.125Z
 description: The gates that make up the Computer
 tags:
