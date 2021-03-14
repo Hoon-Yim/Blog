@@ -152,7 +152,7 @@ Let's quickly see what it looks like:
 
 ![XOR Gate](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/XOR_from_NAND.svg/450px-XOR_from_NAND.svg.png)
 
-It seems like monster but do not worry anything. This is quite simple. Trust me.
+It seems like a monster but do not worry anything. This is quite simple. Trust me.
 
 First of all, let's get to know what this gate does for now.<br />
 This gate derives _on_ only when the two inputs are different. And the output is off when the two inputs are the same each other. <br />
