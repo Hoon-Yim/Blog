@@ -7,7 +7,7 @@ date: 2021-03-13T16:54:03.125Z
 description: Everything about switch in C#
 tags:
   - English
-  - C#
+  - CSharp
   - Switch
 ---
 
